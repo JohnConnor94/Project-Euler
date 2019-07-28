@@ -17,3 +17,7 @@ subfolders for different languages:
 - /problem-001/C#/
  
 
+ATTENTION:
+PLEASE DO NOT USE THIS CODE TO CHEAT ON PROJECT EULER!
+
+Register to it and try yourself to solve the problems to improve yourself.

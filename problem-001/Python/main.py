@@ -1,3 +1,4 @@
+# python 3.7.4
 def sol1(limit) -> int:
     """
     Simple solution with for, C-stylish
