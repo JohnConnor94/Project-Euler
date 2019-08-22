@@ -20,6 +20,14 @@ def sol2(limit) -> int:
         total += x
     return total
 
+def sol3(limtit) -> int:
+    """
+    A third implementation it could be made with iterators to avoid instatiating a list 
+    """
+    
+    // implementation 
+    
+    pass
 
 def main():
     limit = 1000
